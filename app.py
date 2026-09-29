@@ -136,3 +136,4 @@ if user_input:
         "model": selected_model
     })
     
+# 깃허브 커밋 테스트
